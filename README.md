@@ -39,7 +39,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ## Programs for arithmetic  operations
 
-## Addition  of 8 bit ALP 
+## Addition  of 16 bit ALP 
 ```
 mov AX,5782H
 mov BX,23ABH
@@ -51,7 +51,7 @@ HLT
 
 ![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/add.png)
 
-## Subtraction   of 8 bit numbers  ALP 
+## Subtraction   of 16 bit numbers  ALP 
 ```
 mov AX,5782H
 mov BX,23ABH
@@ -89,7 +89,7 @@ HLT
 
  ![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/DIV.png)
 
-## And of 8 bit numbers ALP
+## And of 16 bit numbers ALP
 ```
 mov AX,5782H
 mov BX,23ABH
@@ -101,7 +101,7 @@ HLT
 
 ![img](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/and.png)
 
-## OR of 8 bit numbers ALP
+## OR of 16 bit numbers ALP
 ```
 mov AX,5782H
 mov BX,23ABH
@@ -113,7 +113,7 @@ HLT
 
 ![img](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/or.png)
 
-## NOT of 8 bit number ALP
+## NOT of 16 bit number ALP
 ```
 mov AX,5782H
 NOT AX
@@ -124,7 +124,7 @@ HLT
 
 ![img](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/not.png)
 
-## XOR of 8 bit number ALP
+## XOR of 16 bit number ALP
 ```
 MOV AX,5782H
 MOV BX,23ABH
